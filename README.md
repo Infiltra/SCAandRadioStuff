@@ -1,2 +1,2 @@
 # SCAandRadioStuff
-A bunch of GRC and som,e
+A bunch of GRC and some
